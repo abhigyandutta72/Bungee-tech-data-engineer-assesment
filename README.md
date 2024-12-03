@@ -1,6 +1,5 @@
 # Bungee-tech-data-engineer-assesment
 Bungee Tech Data Engineer Assesment using SQL and Python
-
 Table under consideration is Sales with the sample format given below:
 Sale_date, Country, Category, product, sales
 Jan-2021, USA , Retail, UUID1, 10000
