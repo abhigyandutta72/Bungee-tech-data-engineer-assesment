@@ -2,14 +2,23 @@
 Bungee Tech Data Engineer Assesment using SQL and Python
 
 Table under consideration is Sales with the sample format given below:
+
 Sale_date, Country, Category, product, sales
+
 Jan-2021, USA , Retail, UUID1, 10000
+
 Jan-2021, USA, Healthcare, UUID2, 2000
+
 Jan-2021, Canada, Retail, UUID3, 30000
+
 Jan-2021, Canada, Hospitality, UUID4, 5000
+
 Feb-2021, USA , Retail, UUID5, 10000
+
 Feb-2021, USA, Healthcare, UUID6, 2000
+
 Feb-2021, Canada, Retail, UUID7, 30000
+
 Feb-2021, Canada, Hospitality, UUID8, 5000
 
 Questions:
