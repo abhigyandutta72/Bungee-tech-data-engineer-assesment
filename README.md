@@ -26,16 +26,25 @@ Questions:
     The output should be in this format (Country, Category, Total sales)
     
 2. Total sales of products sold in both Feb & Jan , Total sales of products sold ONLY in Jan, Total sales of products sold ONLY in Feb.
+
     Output should be in this format (jan_feb_sales, jan_sales, feb_sales)
    
 4. In the query written in question #1 what are the partitions and indexes you would create for best performance?
+   
 Table: Employee
+
 +--------------+---------+
+
 | Column Name  | Type    |
+
 +--------------+---------+
+
 | id           | int     |
+
 | name         | varchar |
+
 | departmentId | int     |
+
 +--------------+---------+
 
 id is the primary key column for this table.
@@ -46,20 +55,30 @@ Each row of this table indicates the ID, name, and salary of an employee. It als
 Table: Salary
 
 +--------------+---------+
+
 | Column Name  | Type    |
+
 +--------------+---------+
+
 | employeeid   | int     |
+
 | salary       | varchar |
+
 +--------------+---------+
 
 
 Table: Department
 
 +-------------+---------+
+
 | Column Name | Type    |
+
 +-------------+---------+
+
 | id          | int     |
+
 | name        | varchar |
+
 +-------------+---------+
 
 
